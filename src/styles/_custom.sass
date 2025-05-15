@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 40%
+    right: 78%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 65%
+    right: 20%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    right: 10%
 
 @keyframes float1
   0%
@@ -28,3 +33,28 @@
 figcaption
   font-weight: normal
  
+
+
+.bgs
+  background-color: #F6F6F6
+  border-radius: 20px
+
+.banner-principal
+  @media (max-width: $bp-max-md)
+    .tarjeta
+      background-image: url('../assets/curso/portada/tablet.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 8% !important 
+      padding-right: 5% !important
+  @media (max-width: 767px) 
+    .tarjeta
+      background-image: url('../assets/curso/portada/movil.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 15% !important 
+      padding-right: 5% !important

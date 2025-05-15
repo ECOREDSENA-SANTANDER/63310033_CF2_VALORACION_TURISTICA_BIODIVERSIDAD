@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Normatividad y estructura del Sistema Nacional de Áreas Protegidas de Colombia (SINAP)'
