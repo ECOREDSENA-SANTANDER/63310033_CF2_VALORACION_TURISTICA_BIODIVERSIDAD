@@ -115,6 +115,8 @@ figcaption
   width: 300px
   background-color: #70BFC2
   border-radius: 50px
+  @media (max-width: 767px)
+    width: 270px
 .sub1 
   left: -35%
   position: relative
@@ -124,6 +126,14 @@ figcaption
     top: -15%
     right: -50%
 
+.sub11
+  left: -35%
+  position: relative
+  @media (max-width: 767px)
+    width: 60px
+    position: absolute
+    top: -15%
+    right: -70%
 
 .hr1
   border-bottom:#4D812E solid 2.88px
@@ -205,13 +215,17 @@ figcaption
   background-color:#0F6646
   border-radius: 50px
   width: fit-content
-  padding: 5px 14px
+  padding: 5px
   position: relative 
 .titulo img
   width: 60px
   position: absolute
   top: -40%
   right: 87%
+  @media (max-width: 767px)
+    width: 60px
+    top: -30%
+    right: 83%
 
 
 .bg4
@@ -389,3 +403,23 @@ figcaption
 .br2
   border-bottom: 10px solid #437375
   width: 30px
+
+
+@media (min-width: 768px) and (max-width: 1024px) 
+  .o2
+     order: 2
+  .o1
+     order: 1
+@media (max-width: 767px)  
+  .o2
+     order: 2
+  .o1
+     order: 1
+
+.tarjeta.color-primario 
+  @media (max-width: 767px)
+    border-radius: 20px
+  
+.tarjeta.color-secundario
+  @media (max-width: 767px)
+    border-radius: 20px
