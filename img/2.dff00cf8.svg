@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="91.188" height="91.188" viewBox="0 0 91.188 91.188">
+  <g id="Grupo_1100056" data-name="Grupo 1100056" transform="translate(-180.109 -6323.43)">
+    <g id="Grupo_1099481" data-name="Grupo 1099481" transform="translate(-1070.98 5910.093)">
+      <g id="Grupo_1098742" data-name="Grupo 1098742" transform="translate(1251.09 413.337)">
+        <rect id="Rectángulo_400898" data-name="Rectángulo 400898" width="81.157" height="81.157" rx="40.578" transform="translate(5.471 5.471)" fill="#0f6646" opacity="0.859"/>
+        <g id="Rectángulo_400907" data-name="Rectángulo 400907" fill="none" stroke="#4d812e" stroke-linecap="round" stroke-width="2" stroke-dasharray="7">
+          <rect width="91.188" height="91.188" rx="45.594" stroke="none"/>
+          <rect x="1" y="1" width="89.188" height="89.188" rx="44.594" fill="none"/>
+        </g>
+      </g>
+      <g id="Grupo_1099618" data-name="Grupo 1099618" transform="translate(1282.29 440.034)">
+        <path id="Trazado_880253" data-name="Trazado 880253" d="M89.344,6.865,80.487.221A1.122,1.122,0,0,0,79.822,0H62.107A1.107,1.107,0,0,0,61,1.107V36.685a1.107,1.107,0,0,0,1.107,1.107H88.68a1.107,1.107,0,0,0,1.107-1.107V7.758a1.115,1.115,0,0,0-.443-.893ZM80.929,3.322l4.429,3.322H80.929ZM63.214,35.578V2.214h15.5V7.75a1.107,1.107,0,0,0,1.107,1.107h7.75v26.72Z" transform="translate(-61)" fill="#ffe8b6"/>
+        <path id="Trazado_880254" data-name="Trazado 880254" d="M241,257.107v2.214a1.107,1.107,0,1,0,2.214,0v-2.214a1.107,1.107,0,0,0-2.214,0Z" transform="translate(-227.714 -237.104)" fill="#ffe8b6"/>
+        <circle id="Elipse_11496" data-name="Elipse 11496" cx="1.403" cy="1.403" r="1.403" transform="translate(12.99 25.209)" fill="#ffe8b6"/>
+        <path id="Trazado_880255" data-name="Trazado 880255" d="M131.955,151.612a1.107,1.107,0,0,0-1.981,0l-8.858,17.715a1.107,1.107,0,0,0,.99,1.6h17.715a1.107,1.107,0,0,0,.99-1.6Zm-8.056,17.1,7.066-14.132,7.066,14.132Z" transform="translate(-116.571 -139.854)" fill="#ffe8b6"/>
+      </g>
+    </g>
+  </g>
+</svg>
