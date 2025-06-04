@@ -320,7 +320,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Johann Sebastián Teran Carvajal',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -330,12 +330,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Erika Mejía',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

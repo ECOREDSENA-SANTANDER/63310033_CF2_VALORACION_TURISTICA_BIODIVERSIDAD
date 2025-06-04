@@ -270,7 +270,7 @@
       .col-lg-5
         img.mb-4.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/18.png')
 
-    p.mb-4(data-aos="fade-down-left") Una de las más importantes funciones de las áreas protegidas es la conservación #[em in situ] de la biodiversidad.
+    p.mb-4(data-aos="fade-down-left") Una de las más importantes funciones de las áreas protegidas es la conservación in situ de la biodiversidad.
 
     .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg-12
@@ -363,10 +363,6 @@
           li.d-flex.mb-2
             i.fas.fa-leaf
             p.mb-0 d) Área natural única: espacio que conserva un ecosistema, formación geológica o paisaje excepcional, con características naturales únicas que requieren protección especial.
-          .hr3.mb-2
-          li.d-flex.mb-2
-            i.fas.fa-leaf
-            p.mb-0 Los mecanismos de información, capacitación, educación, divulgación e investigación, entre otros.
           .hr3.mb-2
           li.d-flex.mb-2
             i.fas.fa-leaf
