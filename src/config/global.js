@@ -112,21 +112,24 @@ export default {
   complementario: [
     {
       tema: 'Marco normativo para la protección de la biodiversidad',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
+      referencia:
+        'La OMT subraya en la COP13 el potencial del Turismo para conservar la Biodiversidad. (2016, 19 diciembre). ONU Turismo.',
+      tipo: 'Página Web',
       link:
         'https://www.unwto.org/es/archive/press-release/2016-12-19/la-omt-subraya-en-la-cop13-el-potencial-del-turismo-para-conservar-la-biodi#:~:text=El%20Turismo%20puede%20contribuir%20en,la%20inauguraci%C3%B3n%20de%20la%20Conferencia.',
     },
     {
       tema: 'Marco normativo para la protección de la biodiversidad',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
+      referencia:
+        'Código Ético Mundial para el Turismo. (s. f.). https://www.unwto.org/es/codigo-etico-mundial-para-el-turismo',
+      tipo: 'Otro',
       link: 'https://www.unwto.org/es/codigo-etico-mundial-para-el-turismo',
     },
     {
-      tema: 'Marco normativo para la protección de la biodiversidad',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
+      tema: 'Sistema Nacional de Áreas Protegidas (SINAP)',
+      referencia:
+        'Jbetancourt, J. M. (2014, 22 mayo). Los Parques Nacionales conservan nuestra diversidad biológica. Parques Nacionales Naturales de Colombia.',
+      tipo: 'Página Web',
       link:
         'https://old.parquesnacionales.gov.co/portal/es/los-parques-nacionales-conservan-nuestra-diversidad-biologica/',
     },
