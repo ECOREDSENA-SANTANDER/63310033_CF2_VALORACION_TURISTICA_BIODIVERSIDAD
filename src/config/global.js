@@ -113,16 +113,15 @@ export default {
     {
       tema: 'Marco normativo para la protección de la biodiversidad',
       referencia:
-        'La OMT subraya en la COP13 el potencial del Turismo para conservar la Biodiversidad. (2016, 19 diciembre). ONU Turismo.',
+        'ONU Turismo. (2016). La OMT subraya en la COP13 el potencial del Turismo para conservar la Biodiversidad.',
       tipo: 'Página Web',
       link:
         'https://www.unwto.org/es/archive/press-release/2016-12-19/la-omt-subraya-en-la-cop13-el-potencial-del-turismo-para-conservar-la-biodi#:~:text=El%20Turismo%20puede%20contribuir%20en,la%20inauguraci%C3%B3n%20de%20la%20Conferencia.',
     },
     {
       tema: 'Marco normativo para la protección de la biodiversidad',
-      referencia:
-        'Código Ético Mundial para el Turismo. (s. f.). https://www.unwto.org/es/codigo-etico-mundial-para-el-turismo',
-      tipo: 'Otro',
+      referencia: 'ONU Turismo. (s.f.). Código Ético Mundial para el Turismo.',
+      tipo: 'Página Web',
       link: 'https://www.unwto.org/es/codigo-etico-mundial-para-el-turismo',
     },
     {
@@ -304,7 +303,7 @@ export default {
         },
         {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -334,12 +333,12 @@ export default {
       autores: [
         {
           nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Erika Mejía',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

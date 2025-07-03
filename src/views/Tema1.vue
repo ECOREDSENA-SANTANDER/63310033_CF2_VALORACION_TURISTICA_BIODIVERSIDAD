@@ -15,10 +15,8 @@
           .col-lg-4.col-md-6.mb-0
             img.img-a.img-t(src='@/assets/curso/tema1/1.svg', alt='Un documento de notificación de devolución de productos con una lista de razones para la devolución, incluyendo mercancía en perfecto estado, averías, fecha de vencimiento, reposición y falta de espacio.')
      
-      p.mb-4(data-aos="fade-down-left") En el año de 1991 el gobierno nacional adoptó dicho concepto recogido por la Constitución Política donde “elevó el manejo y la protección de los recursos naturales y el medio ambiente, en otras palabras, la biodiversidad, a la categoría de norma constitucional, mediante el reconocimiento de los siguientes artículos:
-  
-      
-  
+      p.mb-4(data-aos="fade-down-left") En el año de 1991 el gobierno nacional adoptó dicho concepto recogido por la Constitución Política donde “elevó el manejo y la protección de los recursos naturales y el medio ambiente”, en otras palabras, la biodiversidad, a la categoría de norma constitucional, mediante el reconocimiento de los siguientes artículos:
+    
       .row.fondo2.justify-content-center.align-items-center.p-2.mb-0(data-aos="fade-down")
         .col-lg-12.px-lg-5.px-4.mb-0
 
@@ -68,7 +66,7 @@
           .col-lg-9.col-md-9.col-9.linea
             h4.mb-0.text-center.text-white Políticas de conservación del medio ambiente y protección de la diversidad
       
-      .row.fondo3.p-4.p-lg-4.p-md-3.mb-5(data-aos="fade-down")
+      .row.fondo3.p-4.p-lg-4.p-md-3.mb-4(data-aos="fade-down")
         .col-lg-12
           
           .row.justify-content-center.align-items-center
@@ -127,7 +125,7 @@
                     img.d-none.d-lg-block(src='@/assets/curso/tema1/25.svg', alt='Texto que describa la imagen')
                   .col-lg-9.mb-3
                     p.mb-0 Como política de Estado, tiene como propósito promover la Gestión Integral de la Biodiversidad y sus Servicios Ecosistémicos (GIBSE). Esta gestión busca mantener y fortalecer la resiliencia de los sistemas socioecológicos a nivel nacional, regional, local y transfronterizo, teniendo en cuenta escenarios de cambio, y se implementa mediante una acción conjunta, coordinada y concertada entre el Estado, el sector productivo y la sociedad civil.
-              figcaption Fuente: SENA (2017).
+
 
       .titulo.mb-5.ps-5.pe-2(data-aos="fade-right")
         img(src='@/assets/curso/tema1/titulo.png', alt='Imagen decorativa')
@@ -135,12 +133,9 @@
 
   
       .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
-        .col-lg-10
-          .bloque-texto-f.color-acento-contenido.pt-4.px-lg-5.px-0.mb-0
-            .bloque-texto-f__comillas
-              i.fas.fa-quote-left
-              i.fas.fa-quote-right
-            p.bloque-texto-f__texto.mx-lg-5.mx-4.mb-4.my-2 La Organización Mundial del Turismo (OMT) ha asumido un compromiso con la protección del medio ambiente, reconociendo su papel fundamental en el desarrollo turístico de los destinos. Tal como lo expresó Taleb Rifai, secretario general de la OMT: “el turismo y la biodiversidad son aliados naturales, y la OMT tiene un compromiso firme de trabajar con el Convenio sobre la Diversidad Biológica. El turismo puede contribuir en gran medida a la protección de la biodiversidad, fomentando la sensibilización, involucrando a la comunidad turística y proponiendo alternativas sostenibles a las comunidades locales” (OMT, 2016).
+        .col-lg-10.mb-lg-5
+          .bgu.p-4
+            p.mb-3.my-3 La Organización Mundial del Turismo (OMT) ha asumido un compromiso con la protección del medio ambiente, reconociendo su papel fundamental en el desarrollo turístico de los destinos. Tal como lo expresó Taleb Rifai, secretario general de la OMT: “el turismo y la biodiversidad son aliados naturales, y la OMT tiene un compromiso firme de trabajar con el Convenio sobre la Diversidad Biológica. El turismo puede contribuir en gran medida a la protección de la biodiversidad, fomentando la sensibilización, involucrando a la comunidad turística y proponiendo alternativas sostenibles a las comunidades locales” (OMT, 2016).
         .col-lg-2
           img.mb-5.d-none.d-lg-block(src='@/assets/curso/tema1/3.svg')
         
@@ -211,18 +206,14 @@
       #t_1_1.titulo-segundo.mb-lg-5.mb-3
         h2 1.1 Perspectiva de la conservación  
 
-      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+      .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
         .col-lg-8
           .row.justify-content-center.align-items-center.mb-0
-            .col-lg-3.mb-5
+            .col-lg-3.mb-4
               img.mb-4.d-none.d-lg-block(src='@/assets/curso/tema1/3.svg')
-              img.mb-0.d-none.d-lg-block.img-a.img-t(src='@/assets/curso/tema1/hj.png')
-            .col-lg-9
-              .bloque-texto-f.color-acento-contenido.pt-4.px-lg-5.px-0.mb-0
-                .bloque-texto-f__comillas
-                  i.fas.fa-quote-left
-                  i.fas.fa-quote-right
-                p.bloque-texto-f__texto.mx-lg-5.mx-4.mb-4.my-lg-5 Las Áreas Naturales Protegidas (ANP) son reconocidas como el instrumento más relevante para la conservación in situ de la biodiversidad. Aunque cualquier ANP contribuye a la protección de la biodiversidad, la aplicación rigurosa de criterios científicos permite optimizar su capacidad para conservar de manera efectiva los componentes y procesos ecológicos en diversas escalas espaciales y temporales. (Echeverry-Galvis et al., 2019).
+            .col-lg-9.mb-lg-5
+              .bgu.p-4.mb-lg-0.mb-4
+                p.mb-0.my-0 Las Áreas Naturales Protegidas (ANP) son reconocidas como el instrumento más relevante para la conservación #[em in situ] de la biodiversidad. Aunque cualquier ANP contribuye a la protección de la biodiversidad, la aplicación rigurosa de criterios científicos permite optimizar su capacidad para conservar de manera efectiva los componentes y procesos ecológicos en diversas escalas espaciales y temporales. (Echeverry-Galvis et al., 2019).
         .col-lg-4.col-md-6.col-7
           img.mb-lg-5.mb-0.d-none.d-lg-block(src='@/assets/curso/tema1/9.png')
 
@@ -233,7 +224,7 @@
               .col
                 img.mb-lg-0.mb-4.img-a.img-t(src='@/assets/curso/tema1/10.svg')
               .col-lg-11
-                p.mb-0 #[b Nota: IAvH:] Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt. Es una entidad colombiana dedicada a la investigación científica y técnica sobre la biodiversidad del país, especialmente en temas de conservación y uso sostenible.
+                p.mb-0 #[b Nota: IAVH:] Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt. Es una entidad colombiana dedicada a la investigación científica y técnica sobre la biodiversidad del país, especialmente en temas de conservación y uso sostenible.
 
 
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4

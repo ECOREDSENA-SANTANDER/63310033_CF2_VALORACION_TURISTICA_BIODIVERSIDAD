@@ -18,12 +18,9 @@
             .col-lg-10
               p.mb-lg-0.mb-4 Las áreas protegidas se reconocen como una estrategia fundamental no solo para la conservación de la diversidad biológica, sino también como un componente clave para el desarrollo sostenible. Estas áreas aportan significativamente a la provisión de servicios ecosistémicos esenciales y al bienestar humano.
           .row.justify-content-center.align-items-center.mb-0
-            .col-lg-12.pb
-              .bloque-texto-f.color-acento-contenido.t2.px-4.mb-lg-0.mb-4
-                .bloque-texto-f__comillas
-                  i.fas.fa-quote-left
-                  i.fas.fa-quote-right.mb-0
-                p.bloque-texto-f__texto.my-4.mb-3 El SINAP surge de la necesidad de trabajar de manera articulada en una red de áreas protegidas, promoviendo procesos sociales participativos e inclusivos, buscando fortalecer el reconocimiento y respeto de los derechos de las comunidades, contribuir a la reducción de la pobreza, regular el uso de los recursos naturales y prevenir o resolver conflictos intersectoriales, todo ello a partir de la conservación del patrimonio natural. Para alcanzar estos objetivos, es indispensable una acción sinérgica, complementaria y coordinada entre los niveles internacional, regional, nacional, subnacional y local (Paredes-Leguizamón, 2011).
+            .col-lg-12
+              .bgu1.p-3.mb-lg-0.mb-4
+                p.mb-0 El SINAP surge de la necesidad de trabajar de manera articulada en una red de áreas protegidas, promoviendo procesos sociales participativos e inclusivos, buscando fortalecer el reconocimiento y respeto de los derechos de las comunidades, contribuir a la reducción de la pobreza, regular el uso de los recursos naturales y prevenir o resolver conflictos intersectoriales, todo ello a partir de la conservación del patrimonio natural. Para alcanzar estos objetivos, es indispensable una acción sinérgica, complementaria y coordinada entre los niveles internacional, regional, nacional, subnacional y local (Paredes-Leguizamón, 2011).
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -45,7 +42,7 @@
     
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-8
-            img.mb-4(src='@/assets/curso/tema2/3.svg', alt='La figura presenta una clasificación de los objetos de observación en la gestión ambiental. Estos se agrupan en dos bloques. El primero incluye: actores sociales y formas de gobierno, áreas protegidas y categorías de manejo, autoridades ambientales con sus niveles de gestión, y subsistemas. El segundo bloque contempla: mecanismos de coordinación, articulación e interacción, principios y deberes ambientales, e instrumentos para el desarrollo de política.')
+            img.mb-4(src='@/assets/curso/tema2/3.svg', alt='La figura presenta una clasificación de los objetos de observación en la gestión ambiental. Estos se agrupan en dos bloques. El primero incluye: actores sociales y formas de gobierno, áreas protegidas y categorías de manejo, autoridades ambientales con sus niveles de gestión, y subsistemas. El segundo bloque contempla: mecanismos de coordinación, articulación e interacción, principios y deberes ambientales, e instrumentos para el desarrollo de políticas.')
             figcaption Fuente: SENA, (2017)
     
     .bg7.p-4.mb-0(data-aos="fade-right")
@@ -57,7 +54,7 @@
             .col-lg-10
               .mb-0.d-flex(data-aos="zoom-in-left")
                 .d-flex.flex-wrap.align-items-center
-                  h3.bg2.p-2.ps-4 Declaración:
+                  h3.bg2.p-2.ps-4 Declaración
                   img.img-a.img-t.sub11.mb-4(src='@/assets/curso/tema1/sub1.svg')
               p.mb-4 Se realiza a partir de la definición de los objetivos de conservación (es la razón de ser) que a su vez responde a los objetivos generales de conservación del país y las dimensiones de la conservación: #[b preservación, restauración, conocimiento y/o uso sostenible.]
          
@@ -130,15 +127,13 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-12
-        .titulo-sexto.color-secundario.mb-4
+        .titulo-sexto.color-secundario.mb-3
           h5 Figura 3. 
           | Áreas protegidas
       
-    
-    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-2(data-aos="fade-left")
       .col-lg-12
         img.mb-4(src='@/assets/curso/tema2/8.svg', alt='La figura representa la estructura del Sistema Nacional de Áreas Naturales Protegidas (SINAP), clasificando las áreas protegidas en públicas y privadas. Dentro de las públicas se incluyen diversas categorías como parques nacionales naturales, reservas forestales, parques regionales, distritos de manejo y conservación, y áreas de recreación. Las privadas están representadas por reservas naturales de la sociedad civil. Además, se detallan subcategorías del sistema de parques nacionales naturales.')
-        figcaption.mb-4 Fuente: SENA
     
     .titulo.mb-5.ps-5.pe-3(data-aos="fade-right")
       img(src='@/assets/curso/tema1/titulo.png', alt='Imagen decorativa')
@@ -270,7 +265,7 @@
       .col-lg-5
         img.mb-4.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/18.png')
 
-    p.mb-4(data-aos="fade-down-left") Una de las más importantes funciones de las áreas protegidas es la conservación in situ de la biodiversidad.
+    p.mb-4(data-aos="fade-down-left") Una de las más importantes funciones de las áreas protegidas es la conservación #[em in situ] de la biodiversidad.
 
     .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg-12
