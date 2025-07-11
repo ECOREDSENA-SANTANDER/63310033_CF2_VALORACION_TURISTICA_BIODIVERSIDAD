@@ -47,7 +47,7 @@ export default {
           mensaje_correcto:
             'Ha comprendido con claridad los conceptos clave sobre el Sistema Nacional de Áreas Protegidas, su estructura normativa y su importancia para la conservación de la biodiversidad y el desarrollo sostenible en Colombia.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo..',
         },
         {
           id: 2,
@@ -70,7 +70,7 @@ export default {
           mensaje_correcto:
             'Ha comprendido con claridad los conceptos clave sobre el Sistema Nacional de Áreas Protegidas, su estructura normativa y su importancia para la conservación de la biodiversidad y el desarrollo sostenible en Colombia.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo..',
         },
         {
           id: 3,
@@ -93,7 +93,7 @@ export default {
           mensaje_correcto:
             'Ha comprendido con claridad los conceptos clave sobre el Sistema Nacional de Áreas Protegidas, su estructura normativa y su importancia para la conservación de la biodiversidad y el desarrollo sostenible en Colombia.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo..',
         },
         {
           id: 4,
@@ -116,7 +116,7 @@ export default {
           mensaje_correcto:
             'Ha comprendido con claridad los conceptos clave sobre el Sistema Nacional de Áreas Protegidas, su estructura normativa y su importancia para la conservación de la biodiversidad y el desarrollo sostenible en Colombia.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo..',
         },
         {
           id: 5,
@@ -139,7 +139,7 @@ export default {
           mensaje_correcto:
             'Ha comprendido con claridad los conceptos clave sobre el Sistema Nacional de Áreas Protegidas, su estructura normativa y su importancia para la conservación de la biodiversidad y el desarrollo sostenible en Colombia.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo..',
         },
         {
           id: 6,
@@ -162,7 +162,7 @@ export default {
           mensaje_correcto:
             'Ha comprendido con claridad los conceptos clave sobre el Sistema Nacional de Áreas Protegidas, su estructura normativa y su importancia para la conservación de la biodiversidad y el desarrollo sostenible en Colombia.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo..',
         },
         {
           id: 7,
@@ -185,7 +185,7 @@ export default {
           mensaje_correcto:
             'Ha comprendido con claridad los conceptos clave sobre el Sistema Nacional de Áreas Protegidas, su estructura normativa y su importancia para la conservación de la biodiversidad y el desarrollo sostenible en Colombia.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo..',
         },
         {
           id: 8,
@@ -208,7 +208,7 @@ export default {
           mensaje_correcto:
             'Ha comprendido con claridad los conceptos clave sobre el Sistema Nacional de Áreas Protegidas, su estructura normativa y su importancia para la conservación de la biodiversidad y el desarrollo sostenible en Colombia.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo..',
         },
         {
           id: 9,
@@ -231,7 +231,7 @@ export default {
           mensaje_correcto:
             'Ha comprendido con claridad los conceptos clave sobre el Sistema Nacional de Áreas Protegidas, su estructura normativa y su importancia para la conservación de la biodiversidad y el desarrollo sostenible en Colombia.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo..',
         },
         {
           id: 10,
@@ -254,11 +254,11 @@ export default {
           mensaje_correcto:
             'Ha comprendido con claridad los conceptos clave sobre el Sistema Nacional de Áreas Protegidas, su estructura normativa y su importancia para la conservación de la biodiversidad y el desarrollo sostenible en Colombia.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo..',
         },
       ],
       mensaje_final_aprobado:
-        'Se observa claro entendimiento y claridad en los conceptos sobre el Sistema Nacional de Áreas Protegidas, su estructura normativa.',
+        'Se observa claro entendimiento en los conceptos sobre el Sistema Nacional de Áreas Protegidas, su estructura normativa.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

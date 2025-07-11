@@ -23,8 +23,8 @@
           .col-lg-12
             figure
               .video
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/NzeNiyeMnAo?si=EEUPM8-ySncp1kGS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            figcaption Video. Normatividad y estructura del Sistema Nacional de Áreas Protegidas de Colombia SINAP
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/skhBF3XW1CE?si=ba6c_kJO0qMVpLsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            figcaption Video. Normatividad y estructura del Sistema Nacional de Áreas Protegidas de Colombia (SINAP)
 
 </template>
 
